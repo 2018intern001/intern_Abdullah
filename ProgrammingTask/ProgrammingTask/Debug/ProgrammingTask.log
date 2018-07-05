@@ -1,2 +1,4 @@
 ﻿  ProgrammingTask.cpp
-  ProgrammingTask.vcxproj -> C:\Users\intern01\source\repos\ProgrammingTask\Debug\ProgrammingTask.exe
+d:\intern_abdullah\trunk\programmingtask\programmingtask\programmingtask.cpp(86): warning C4018: '<': signed/unsigned mismatch
+d:\intern_abdullah\trunk\programmingtask\programmingtask\programmingtask.cpp(90): warning C4018: '<': signed/unsigned mismatch
+  ProgrammingTask.vcxproj -> D:\intern_Abdullah\trunk\ProgrammingTask\Debug\ProgrammingTask.exe
