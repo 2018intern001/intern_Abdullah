@@ -1,0 +1,4 @@
+﻿  Lambda.cpp
+c:\users\intern01\source\repos\lambda\lambda\lambda.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\intern01\source\repos\lambda\lambda\lambda.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  Lambda.vcxproj -> c:\Users\intern01\source\repos\Lambda\Debug\Lambda.exe
